@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 afdasdf sadf1111111111111111
+=======
+<<<<<<< HEAD
+ok everyone welcome to my presentation.
+thank you for your inviting...
+=======
+afdasdf sadfsf sd
+>>>>>>> 781dcc719006e654b1b2c059acb5cefa031876bf
+>>>>>>> firstChild
